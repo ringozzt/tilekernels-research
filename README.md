@@ -3,7 +3,7 @@
 > DeepSeek 开源的高性能 LLM 算子库：数十个生产级 GPU/NPU 算子，全部用 TileLang DSL 编写，性能接近硬件上限，MIT 协议。
 
 - 仓库：[deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)
-- 首次公开：2026-04-22（GitHub 建仓）；Ascend 后端 2026-09-30 官宣
+- 首次公开：2026-04-22（GitHub 建仓）；v2.0.0 于 2026-09-30 发布（新增 Ascend 后端）
 - License：MIT · 安装：`pip install tile-kernels`
 - 作者：16 人，均为 `@deepseek.com` 邮箱
 
